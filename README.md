@@ -1,8 +1,8 @@
-# ✨ Hello there! ✨
+# ✨ Yo, what's up? ✨
 
-- 🎓 I’m currently a university student, but I won’t mention the name of it because, honestly, I’m disappointed with it. 😅  
-- 💻 I’ve learned C/C++ at a basic level and spent quite a bit of time on Java and the Spring Framework.  
-- 😩 At the moment, I feel completely burned out with programming—it’s been overwhelming lately.  
-- 🛌 My favorite hobby is sleeping now, as my love for FPS games was wiped out during university entrance exam prep. 🎮🚫  
+- 🎓 Yeah, I’m a university student, but don’t even bother asking where—I hate that place, it sucks. 😤  
+- 💻 I’ve barely scraped by with C/C++ and wasted a ton of time trying to get into Java and the Spring Framework. Honestly, it’s been a f***ing headache.  
+- 😩 Right now? I’m so fed up with programming, I wanna throw my laptop out the window.  
+- 🛌 My only "hobby" now is sleeping, 'cause my FPS gaming days died a miserable death thanks to that damn university entrance exam grind. 💤🎮💔  
 
-- 📝 That’s all for now!  
+- 📝 That’s it. Don’t expect much more. ✌️  
